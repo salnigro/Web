@@ -1,3 +1,18 @@
 .inline {
   display: inline-block;
 }
+.center{
+  color: white;
+  text-align: center;
+}
+.right{
+  color: white;
+  text-align: right;
+}
+.left{
+  color: white;
+  text-align: left;
+}
+.border{
+  background-color: black;
+}
