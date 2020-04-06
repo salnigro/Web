@@ -16,3 +16,17 @@
 .border{
   background-color: black;
 }
+.line{
+  border-bottom: solid grey 1px;
+}
+.border2{
+  border: solid gray 1px;
+}
+.border3{
+  background-color: lightgray;
+  border: solid gray 1px;
+}
+.border4{
+  background-color: green;
+  border: solid gray 1px;
+}
